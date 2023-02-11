@@ -7,3 +7,5 @@
 ### 3. Connected to the database with superuser credentials
 
 ### 4. Created user model and user repository
+
+### 5. Created user service, put the db logic there, call the service methods in the controller. 

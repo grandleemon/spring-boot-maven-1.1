@@ -1,10 +1,11 @@
-package com.fastdemo.demo.Models;
+package com.fastdemo.demo.models;
 
 import jakarta.persistence.*;
 
 import java.util.Objects;
 
 @Entity
+@Table(name = "users")
 public class UserModel {
 	@Id
 	@SequenceGenerator(
