@@ -5,3 +5,5 @@
 ### 2. Configured database settings in <em>application.yml</em>
 
 ### 3. Connected to the database with superuser credentials
+
+### 4. Created user model and user repository
